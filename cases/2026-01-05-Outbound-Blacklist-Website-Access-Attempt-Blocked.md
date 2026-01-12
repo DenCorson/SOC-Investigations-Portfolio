@@ -1,4 +1,4 @@
-# Outbound Blacklisted Website - Attempt Blocked 
+# Outbound Blacklisted Website Attempt - Attempt Blocked 
 ----------------------------------------------
 
 **Date:**  01/05/2026
