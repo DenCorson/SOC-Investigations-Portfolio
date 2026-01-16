@@ -15,7 +15,7 @@ Link. Targeted link was on companies blacklist. Firewall successfully blocked us
 
 # The 5 W's
 
-**Who**U
+**Who**
 - Source IP:  10.20.2.17
 - Restricted URL: http://bit.ly/3sHkX3da12340
 
