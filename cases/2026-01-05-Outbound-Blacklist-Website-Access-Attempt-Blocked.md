@@ -38,10 +38,22 @@ Link. Targeted link was on companies blacklist. Firewall successfully blocked us
 2. **Identified** **blocked** result containing suspicious URL.
 3. **Retrieved** Source IP of user attempting to access blacklisted site.
 4. **Investigated** suspicious URL with External Threat intelligence and malware analysis.
-5. **Confirmed** URL as Malicious/Phishing
-7. **Verified** Firewall correctly identified and denied endpoint access to site
+5. **Confirmed** URL as Malicious/Phishing.
+7. **Verified** Firewall correctly identified and denied endpoint access to site.
 ----------------------------------------------
 
 ##  Classification 
 
 **Classification:** True Positive - Phishing (URL-Based)
+
+- Target attempted to access Malicious URL.
+- URL matched list of rules for Blocked and Restricted websites.
+- Firewall successfully **alerted**, **blocked**, and **prevented** target endpoint for accessing compromised website.
+
+----------------------------------------------
+
+## Outcome & Recommendations
+
+- Firewall successfully blocked blacklisted website
+- Train user cyber awareness and networks list of blocked websites.
+- No recommendation of escalation.
